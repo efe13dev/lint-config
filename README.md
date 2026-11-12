@@ -12,11 +12,17 @@ Ejecuta el CLI en la raíz de tu proyecto con tu gestor preferido:
 
 ```bash
 npx github:efe13dev/lint-config
-# o
+```
+
+```bash
 pnpm dlx github:efe13dev/lint-config
-# o
+```
+
+```bash
 yarn dlx github:efe13dev/lint-config
-# o
+```
+
+```bash
 bunx github:efe13dev/lint-config
 ```
 
